@@ -7,7 +7,7 @@ Link tugas lab flutter: https://github.com/Idham21/pbp-flutter-lab.git
 
  Sebutkan widget apa saja yang kamu pakai di proyek kali ini dan jelaskan fungsinya.
  Jawaban:
-Stateless widget dan Stateful widget
+    Stateless widget dan Stateful widget
 
  Apa fungsi dari setState()? Jelaskan variabel apa saja yang dapat terdampak dengan fungsi tersebut.
  Jawaban: Merencanakan suatu pembaruan ke suatu state Objek komponen. Ketika state berubah komponen merespon dengan me-render ulang. Jika sebuah state yang ingin diubah tidak terdapat dalam setState() maka perubahan itu tidak akan terjadi.
