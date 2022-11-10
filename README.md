@@ -17,6 +17,7 @@ Link tugas lab flutter: https://github.com/Idham21/pbp-flutter-lab.git
 
  Jelaskan bagaimana cara kamu mengimplementasikan checklist di atas.
  Jawaban:
- 1. Membuat sebuah function decrement untuk mengurangi variabel _counter. Selain itu juga menambah kondisi agar saat _counter == 0, tidak bisa melakukan pengurangan lagi
-2. Membuat kondisi ganjil genap untuk text
-3. Menambah child untuk floatingActionButton agar terdapat 2 button untuk increment dan decrement
+ - Membuat sebuah function decrement untuk mengurangi variabel _counter. Selain itu juga menambah kondisi agar saat _counter == 0, tidak bisa melakukan pengurangan lagi
+ - Membuat kondisi ganjil genap untuk text
+ - Menambah child untuk floatingActionButton agar terdapat 2 button untuk increment dan decrement
+
